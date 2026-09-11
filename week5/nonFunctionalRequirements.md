@@ -1,0 +1,6 @@
+- The system will correctly record appointment bookings so that no booking is lost.
+- The system will not allow two active appointments at the same time.
+- The reception staff should be able to book an appointment in few steps.
+- The system shall be built modular so that new features can be added in future iterations.
+- Each requirment should be verifiable through a test case.
+- The system should work quickly and not take more than 2 seconds to load under normal load.
